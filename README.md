@@ -39,4 +39,4 @@ tflearn newest verion is good
 
 # IDE is jupyter notebook
 
-for each model, I tr
+you can find the plot.xlsx file with all the test plots that I used. 
